@@ -1,12 +1,12 @@
-## Hi there 👋
-## 👋🏼 Welcome, subjects of Ymir.
+## 👋🏼 Hi there, Welcome
 
-<p>I'm <strong>Jesse</strong> (<code>ˈje-sē</code>), a 3rd-year <strong>Information Technology</strong> student at <strong>Polytechnic University of the Philippines</strong>,
+<p>I'm <strong>Samir</strong> (<code>سمير</code>), a 2rd-year <strong>Computer Science</strong> student at <strong>Faculity of science @ ASU (Ain Shams Universty)</strong>,
 <br>actively building my skills through school and personal projects.</p>
 
 ## 💻 Tech Stack
 
 Here are some of the technologies I’m currently working with:
+
 
 <a href="https://github.com/sejjy#gh-dark-mode-only">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,bash,react,git,neovim,vscode,arch&theme=dark" alt="Tech Stack" />
