@@ -1,12 +1,18 @@
-## 👋🏼 Hi there, Welcome
+<div align="center">
+<h1><pre>S A M I R   A H M E D</h1> 
+  <h3>🎓 Cybersecurity Student | 💻 Aspiring Developer</h3>
+</div>
+
+## 👋🏼 Hi there
 
 <p>I'm <strong>Samir</strong> (<code>سمير</code>), a 2rd-year <strong>Computer Science</strong> student at <strong>Faculity of science @ ASU (Ain Shams Universty)</strong>,
-<br>actively building my skills through school and personal projects.</p>
+<br>actively building my skills through school and personal projects .</p>
 
 ## 💻 Tech Stack
 
 ### 🛠 &nbsp; Here are some of the technologies I’m currently working with:
 
+<!--
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Archlinux](https://img.shields.io/badge/-Archlinux-05122A?style=flat&logo=Archlinux)
@@ -17,12 +23,57 @@
 ![C/C++](https://img.shields.io/badge/-C/Cpp-05122A?style=flat&logo=C/Cpp)&nbsp;
 ![Mysql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=Mysql)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+-->
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" />
+</a>&nbsp;
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" />
+</a>&nbsp;
+
+<a href="https://www.python.org/doc/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" />
+</a>&nbsp;
+
+<a href="https://cplusplus.com/doc/tutorial/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" />
+</a>&nbsp;
+
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+  <img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C" />
+</a>&nbsp;
+
+<a href="https://www.gnu.org/software/bash/manual/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=bash&theme=dark" alt="Bash" />
+</a>&nbsp;
+
+<a href="https://git-scm.com/doc" target="_blank">
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" />
+</a>&nbsp;
+
+<a href="https://neovim.io/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=neovim&theme=dark" alt="Neovim" />
+</a>&nbsp;
+
+<a href="https://code.visualstudio.com/docs" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="Visual Studio Code" />
+</a>&nbsp;
+
+<a href="https://archlinux.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=arch&theme=dark" alt="Arch Linux" />
+</a>&nbsp;
+
+<a href="https://dev.mysql.com/doc/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" />
+</a>
+
 
 <p></p>
 
 &ensp;&nbsp;&hairsp;**Languages**:&emsp;HTML, CSS, C, Python, C++, Bash   
 &emsp;&emsp;&emsp;&nbsp;&hairsp;**Tools**:&emsp;Git, Neovim, VS Code
-**Environment**:&emsp;Arch Linux
+<br>&emsp;&emsp;&emsp;&nbsp;&hairsp;**Environment**:&emsp;Arch Linux
 
 ## 📊 GitHub Stats
 
