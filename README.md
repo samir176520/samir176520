@@ -18,8 +18,7 @@
 
 ## 👋🏼 Hi there
 
-<p>I'm <strong>Samir</strong> (<code>سمير</code>), a 2rd-year <strong>Computer Science</strong> student at <strong>Faculity of science @ ASU (Ain Shams Universty)</strong>,
-<br>actively building my skills through school and personal projects .</p>
+<p>I'm <strong>Samir</strong> (<code>سمير</code>), a 2rd-year <strong>Computer Science</strong> student at <strong>Faculity of science @ ASU (Ain Shams Universty)</strong>, actively building my skills through school and personal projects .</p>
 
 ## 💻 Tech Stack
 
