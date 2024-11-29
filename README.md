@@ -1,9 +1,19 @@
 <div align="center">
-<h1><pre>S A M I R   A H M E D</h1> 
+  <h1> <pre>S A M I R   A H M E D </h1> 
   <h3> 
-    <strong> a computer scientist in the making! </strong> <br>🎓 Cybersecurity Student | 💻 Aspiring Developer 
+    A computer scientist in the making! <p> 🎓 Cybersecurity Student | 💻 Aspiring Developer </p>
   </h3>
- <a href="https://github/samir176520"><img src="https://github.com/samir176520/samir176520/blob/main/stikers/giphy2.webp" alt="image" width = 500px ></a>
+    
+  <a href="https://github/samir176520">
+    <img src="https://github.com/samir176520/samir176520/blob/main/stikers/giphy2.webp" alt="image" width = 500px >
+  </a>
+    
+  <p>
+  <a href="#-hi-there">about me</a> •
+  <a href="https://github.com/samir176520?tab=repositories">my projects</a> •
+  <a href="#-tech-stack">languages and technologies</a> •
+  <a href="#reach-me-">reach me</a> 
+  </p>
 </div>
 
 ## 👋🏼 Hi there
@@ -14,19 +24,6 @@
 ## 💻 Tech Stack
 
 ### 🛠 &nbsp; Here are some of the technologies I’m currently working with:
-
-<!--
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Archlinux](https://img.shields.io/badge/-Archlinux-05122A?style=flat&logo=Archlinux)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=Bash)&nbsp;
-![C/C++](https://img.shields.io/badge/-C/Cpp-05122A?style=flat&logo=C/Cpp)&nbsp;
-![Mysql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=Mysql)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
--->
 <p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" />
@@ -92,6 +89,18 @@
     <td>Arch Linux</td>
   </tr>
 </table>
+
+## reach me 🚀
+<p>
+  <a href="https://www.linkedin.com/in/samir176520" target="_blank">
+     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="linkedin Profile" />
+  </a> &nbsp;
+
+ <a href="mailto:samir17620@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="My Email" />
+</a>
+</p>
+
 
 
 <!--
