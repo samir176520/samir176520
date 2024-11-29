@@ -4,7 +4,7 @@
     A computer scientist in the making! <p> 🎓 Cybersecurity Student | 💻 Aspiring Developer </p>
   </h3>
     
-  <a href="https://github/samir176520">
+  <a href="https://github.com/samir176520">
     <img src="https://github.com/samir176520/samir176520/blob/main/stikers/giphy2.webp" alt="image" width = 500px >
   </a>
     
