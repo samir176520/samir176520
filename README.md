@@ -1,6 +1,9 @@
 <div align="center">
 <h1><pre>S A M I R   A H M E D</h1> 
-  <h3>🎓 Cybersecurity Student | 💻 Aspiring Developer</h3>
+  <h3> a computer scientist in the making! <br> <br>🎓 Cybersecurity Student | 💻 Aspiring Developer <br> <br>
+ <a href="https://github/samir176520"><img src="https://github.com/nono5342/nono5342/blob/main/space2.gif" alt="image"></a>
+
+  </h3>
 </div>
 
 ## 👋🏼 Hi there
