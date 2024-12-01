@@ -73,7 +73,7 @@
 <table>
   <tr>
     <td><strong>Languages</strong></td>
-    <td>HTML, CSS, C, Python, C++, Bash</td>
+    <td>HTML, CSS, Python, C++, C, Bash</td>
   </tr>
   <tr>
     <td><strong>Database</strong></td>
