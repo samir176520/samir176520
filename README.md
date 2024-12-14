@@ -18,7 +18,14 @@
 
 ## 👋🏼 Hi there
 
-<p>I'm <strong>Samir</strong> (<code>سمير</code>), a 2rd-year <strong>Computer Science</strong> student at <strong>Faculity of science @ ASU (Ain Shams Universty)</strong>, actively building my skills through school and personal projects .</p>
+<p>I'm <strong>Samir</strong> (<code>سمير</code>), a 2nd-year <strong>Computer Science</strong> student at <strong>Faculty of science @ ASU (Ain Shams Universty)</strong>, I am actively building my skills through academic and personal projects.</p>
+<p>- 🛠️ jack of all trades, but striving to master my craft!</p>
+<p>- 🔐 Diving deep into cybersecurity to explore the art of penetration testing, securing systems and data. </p>
+<p>- 🌱 A firm believer in the power of open source and community-driven development.</p>
+<p>- 📚 Always curious and learning—because in tech journey never ends!</p>
+<p>- 🛠️ Continuously experimenting with different tools, languages, and technologies to build and improve projects.</p>
+
+<br/><br/>
 
 ## 💻 Tech Stack
 
