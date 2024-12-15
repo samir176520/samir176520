@@ -22,7 +22,7 @@
 <p>- 🛠️ jack of all trades, but striving to master my craft!</p>
 <p>- 🔐 Diving deep into cybersecurity to explore the art of penetration testing, securing systems and data. </p>
 <p>- 🌱 A firm believer in the power of open source and community-driven development.</p>
-<p>- 📚 Always curious and learning—because in tech journey never ends!</p>
+<p>- 📚 Always curious and learning, because in tech, the journey never ends!</p>
 <p>- 🛠️ Continuously experimenting with different tools, languages, and technologies to build and improve projects.</p>
 
 <br/><br/>
