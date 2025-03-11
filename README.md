@@ -5,7 +5,7 @@
   </h3>
     
   <a href="https://github.com/samir176520">
-    <img src="https://github.com/samir176520/samir176520/blob/main/stikers/giphy2.webp" alt="image" width = 500px >
+    <img src="https://github.com/samir176520/samir176520/blob/main/stikers%2Fphoto_2025-03-11_17-41-53.jpg" alt="image" width = 500px >
   </a>
     
   <p>
